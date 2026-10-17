@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b0ef88188c8be7aa75b3f465",
+  "owner": "ypshgcvcb",
+  "repo": "page-4b251dfde32184a725f10a06",
+  "title": "绝绝子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b251dfde32184a725f10a06",
+      "a": "绝绝子",
+      "b": "",
+      "entity": "绝绝子",
+      "brand": "绝绝子",
+      "separator": "",
+      "path": "index.html",
+      "hash": "edcfdcff3bc4199d27fb8a8e2be9da062bcb60859bcc81a33478548497dc8d80",
+      "content": {
+        "keyword1": "绝绝子",
+        "keyword2": "",
+        "primary_entity": "绝绝子",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "绝绝子提供清晰、透明的网络中继配置分发服务。本文档整理当前可选配额、全终端接入流程与常见使用规范。",
+          "AI_DESCRIPTION": "绝绝子提供清晰、透明的网络中继配置分发服务。本文档整理当前可选配额、全终端接入流程与常见使用规范。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n    :root {--c-navy: #0b192c;--c-navy-light: #1e3e62;--c-amber: #f59e0b;--c-amber-soft: #fef3c7;--c-text-main: #1f2937;--c-text-muted: #4b5563;--c-bg: #f8fafc;--c-white: #ffffff;--c-border: #e2e8f0;--shadow-soft: 0 12px 32px -4px rgba(11, 25, 44, 0.08), 0 4px 12px -2px rgba(11, 25, 44, 0.04);--radius-card: 20px}\n\n    * {box-sizing: border-box;margin: 0;padding: 0}\n\n    body {background-color: var(--c-bg);color: var(--c-text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.6;-webkit-font-smoothing: antialiased}\n\n    a {color: inherit;text-decoration: none}\n\n    main {max-width: 960px;margin: 0 auto;padding: 48px 24px 96px}\n\n    header.article-hero {border-bottom: 2px solid var(--c-border);padding-bottom: 40px;margin-bottom: 56px}\n\n    .hero-meta {font-size: 0.875rem;color: var(--c-navy-light);letter-spacing: 0.08em;text-transform: uppercase;font-weight: 700;margin-bottom: 16px}\n\n    h1 {font-size: 2.75rem;line-height: 1.25;color: var(--c-navy);letter-spacing: -0.02em;margin-bottom: 24px}\n\n    .hero-lead {font-size: 1.25rem;line-height: 1.8;color: var(--c-text-muted);margin-bottom: 24px}\n\n    .hero-narrative {font-size: 1.05rem;line-height: 1.85;color: var(--c-text-main);border-left: 4px solid var(--c-amber);padding-left: 20px;margin-bottom: 32px}\n\n    .hero-nav {display: flex;flex-wrap: wrap;gap: 12px;padding-top: 16px}\n\n    .hero-nav a {display: inline-block;padding: 8px 18px;border-radius: 9999px;background-color: var(--c-white);color: var(--c-navy);border: 1px solid var(--c-border);font-size: 0.9rem;font-weight: 600;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03)}\n\n    .hero-nav a:hover {background-color: var(--c-navy);color: var(--c-white);border-color: var(--c-navy)}\n\n    section {margin-bottom: 72px}\n\n    h2 {font-size: 1.75rem;color: var(--c-navy);letter-spacing: -0.01em;margin-bottom: 12px}\n\n    .section-desc {font-size: 1rem;color: var(--c-text-muted);margin-bottom: 36px}\n\n    /* 阶梯式套餐排列 */\n    .plans-stepped {display: flex;flex-direction: column;gap: 24px}\n\n    @media (min-width: 860px) {\n      .plans-stepped {display: grid;grid-template-columns: repeat(3, 1fr);align-items: end}\n      .plan-card:nth-child(1) {transform: translateY(24px)}\n      .plan-card:nth-child(2) {transform: translateY(0)}\n      .plan-card:nth-child(3) {transform: translateY(-24px)}\n    }\n\n    .plan-card {background: var(--c-white);border-radius: var(--radius-card);box-shadow: var(--shadow-soft);padding: 36px 28px;border: 1px solid rgba(226, 232, 240, 0.8);position: relative}\n\n    .plan-card.featured {border: 2px solid var(--c-amber);background-color: #ffffff}\n\n    .plan-badge {display: inline-block;position: absolute;top: -12px;right: 24px;background-color: var(--c-amber);color: var(--c-navy);font-size: 0.75rem;font-weight: 800;padding: 4px 12px;border-radius: 9999px;letter-spacing: 0.05em}\n\n    .plan-name {font-size: 1.35rem;font-weight: 700;color: var(--c-navy);margin-bottom: 8px}\n\n    .plan-price-box {margin: 16px 0;padding-bottom: 16px;border-bottom: 1px dashed var(--c-border)}\n\n    .plan-price {font-size: 2rem;font-weight: 800;color: var(--c-navy);line-height: 1}\n\n    .plan-annual {font-size: 0.85rem;color: var(--c-text-muted);margin-top: 6px}\n\n    .plan-features {list-style: none;margin: 20px 0 28px}\n\n    .plan-features li {font-size: 0.95rem;color: var(--c-text-muted);margin-bottom: 10px;padding-left: 20px;position: relative}\n\n    .plan-features li::before {content: \"\";position: absolute;left: 0;top: 8px;width: 6px;height: 6px;border-radius: 50%;background-color: var(--c-amber)}\n\n    .plan-btn {display: block;text-align: center;width: 100%;padding: 12px 0;border-radius: 12px;font-size: 0.95rem;font-weight: 600;background-color: var(--c-navy);color: var(--c-white)}\n\n    .plan-card.featured .plan-btn {background-color: var(--c-amber);color: var(--c-navy)}\n\n    /* 客户端指南 */\n    .steps-grid {display: grid;grid-template-columns: 1fr;gap: 20px}\n\n    @media (min-width: 720px) {\n      .steps-grid {grid-template-columns: repeat(3, 1fr)}\n    }\n\n    .step-card {background: var(--c-white);border-radius: var(--radius-card);box-shadow: var(--shadow-soft);padding: 28px 24px;border: 1px solid rgba(226, 232, 240, 0.6)}\n\n    .step-index {font-size: 0.85rem;font-weight: 800;color: var(--c-amber);background-color: var(--c-amber-soft);width: 28px;height: 28px;display: inline-flex;align-items: center;justify-content: center;border-radius: 8px;margin-bottom: 16px}\n\n    .step-title {font-size: 1.1rem;font-weight: 700;color: var(--c-navy);margin-bottom: 8px}\n\n    .step-body {font-size: 0.95rem;color: var(--c-text-muted);line-height: 1.6}\n\n    /* FAQ 分组展示 */\n    .faq-groups {display: grid;grid-template-columns: 1fr;gap: 32px}\n\n    @media (min-width: 720px) {\n      .faq-groups {grid-template-columns: 1fr 1fr}\n    }\n\n    .faq-group {background: var(--c-white);border-radius: var(--radius-card);box-shadow: var(--shadow-soft);padding: 32px 28px;border: 1px solid rgba(226, 232, 240, 0.6)}\n\n    .faq-group-title {font-size: 1.2rem;font-weight: 700;color: var(--c-navy);padding-bottom: 12px;border-bottom: 2px solid var(--c-amber-soft);margin-bottom: 20px}\n\n    .faq-item {margin-bottom: 20px}\n\n    .faq-item:last-child {margin-bottom: 0}\n\n    .faq-question {font-size: 1rem;font-weight: 700;color: var(--c-navy);margin-bottom: 6px}\n\n    .faq-answer {font-size: 0.925rem;color: var(--c-text-muted);line-height: 1.6}\n\n    footer {border-top: 1px solid var(--c-border);padding-top: 32px;font-size: 0.85rem;color: var(--c-text-muted);text-align: center}\n  </style><main>\n    <header class=\"article-hero\">\n      <div class=\"hero-meta\">配置文档与订阅指南</div>\n      <h1>绝绝子</h1>\n      <p class=\"hero-lead\">简单配置。稳定分发。按需选择。</p>\n      <div class=\"hero-narrative\">\n        网络工具应当保持克制。面对多终端分发需求，绝绝子提供直接的订阅分发与清晰的资费定义。没有复杂的学习成本，复制对应协议链接，写入所选客户端，即刻建立连接。所有配额均透明呈现，按月或按年计费，自由变更。\n      </div>\n      <nav class=\"hero-nav\">\n        <a href=\"#plans\">订阅方案</a>\n        <a href=\"#setup\">客户端设置</a>\n        <a href=\"#faq\">常见问题</a>\n      </nav>\n    </header>\n\n    <section id=\"plans\">\n      <h2>可选服务方案</h2>\n      <p class=\"section-desc\">阶梯配额。灵活升级。用多少选多少。</p>\n      \n      <div class=\"plans-stepped\">\n        <article class=\"plan-card\">\n          <h3 class=\"plan-name\">基础版</h3>\n          <div class=\"plan-price-box\">\n            <div class=\"plan-price\">¥15<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n          <a href=\"#\" class=\"plan-btn\">订购基础版</a>\n        </article>\n\n        <article class=\"plan-card featured\">\n          <div class=\"plan-badge\">推荐选择</div>\n          <h3 class=\"plan-name\">旗舰版</h3>\n          <div class=\"plan-price-box\">\n            <div class=\"plan-price\">¥35<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n          <a href=\"#\" class=\"plan-btn\">订购旗舰版</a>\n        </article>\n\n        <article class=\"plan-card\">\n          <h3 class=\"plan-name\">团队版</h3>\n          <div class=\"plan-price-box\">\n            <div class=\"plan-price\">¥85<span>/月</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n          <a href=\"#\" class=\"plan-btn\">订购团队版</a>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"setup\">\n      <h2>使用说明</h2>\n      <p class=\"section-desc\">三步完成全平台通用接入流程。</p>\n      <div class=\"steps-grid\">\n        <div class=\"step-card\">\n          <div class=\"step-index\">01</div>\n          <h3 class=\"step-title\">获取订阅链接</h3>\n          <p class=\"step-body\">选定对应服务方案并结算。进入控制台复制专属配置地址。妥善保管，切勿泄漏。</p>\n        </div>\n        <div class=\"step-card\">\n          <div class=\"step-index\">02</div>\n          <h3 class=\"step-title\">导入常用客户端</h3>\n          <p class=\"step-body\">本站不绑定专属软件。支持标准代理协议，可在常用客户端中新建配置并粘贴订阅。</p>\n        </div>\n        <div class=\"step-card\">\n          <div class=\"step-index\">03</div>\n          <h3 class=\"step-title\">更新并启用分流</h3>\n          <p class=\"step-body\">下载节点列表后开启系统路由。建议选择规则模式，国内流量直连，海外流量代理。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题</h2>\n      <p class=\"section-desc\">围绕订阅管理与日常连接的说明。</p>\n      <div class=\"faq-groups\">\n        <div class=\"faq-group\">\n          <h3 class=\"faq-group-title\">订阅与账户</h3>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">流量用尽后如何处理？</div>\n            <div class=\"faq-answer\">服务将在配额归零后自动暂停。可在控制台购买流量重置包，或等待账单日自动刷新。</div>\n          </div>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">同时在线设备数如何判定？</div>\n            <div class=\"faq-answer\">系统按实时发起连接的独立 IP 或客户端会话统计。超出配额将阻断新设备接入。</div>\n          </div>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">是否支持随时更改套餐？</div>\n            <div class=\"faq-answer\">支持补差价升级至更高阶套餐。变更实时生效，剩余周期按日折算。</div>\n          </div>\n        </div>\n\n        <div class=\"faq-group\">\n          <h3 class=\"faq-group-title\">连接与维护</h3>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">支持哪些操作系统？</div>\n            <div class=\"faq-answer\">只要客户端支持主流中继协议，均可在 Windows、macOS、iOS、Android 及 Linux 导入。</div>\n          </div>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">节点列表无法更新怎么办？</div>\n            <div class=\"faq-answer\">请检查本地系统时间是否准确。确认网络环境未屏蔽订阅域名后再次尝试手动拉取。</div>\n          </div>\n          <div class=\"faq-item\">\n            <div class=\"faq-question\">是否限制单线程下载速率？</div>\n            <div class=\"faq-answer\">系统不对单线程强行限速。实际速度取决于本地运营商互联带宽及节点负载情况。</div>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <footer>\n      绝绝子 - 简洁务实的中继管理。请遵循当地法律法规合理使用网络。\n    </footer>\n  </main>",
+          "hash": "5c4b7582ca5df8132effd731023a2b10146a8203b22d92437bceadd989889014",
+          "seo": {
+            "title": "绝绝子 - 专属网络中继配置平台",
+            "keywords": "绝绝子, 网络节点, 订阅分发, 客户端配置, 流量套餐",
+            "description": "绝绝子提供清晰、透明的网络中继配置分发服务。本文档整理当前可选配额、全终端接入流程与常见使用规范。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5492",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "funingjob.cn",
+    "host": "p-233364d6ca.funingjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3f18fc20d306563cc23aa0fc7889ad8c73bbd918134168bb6ec6a4808044fc69",
+    "sitemap.xml": "9cf82ad46c3930a8cd7d55b9d0184fff9064c09365cc833f01d467b28586c71f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9657675c4863d276c752a9017c505d73d477e3235c140c4e610a232cbf5abd70",
+    "robots.txt": "9b2efb076592a23a53d7b226512c0a343d4253a542648c8c06f2357f727b2b02",
+    "111fbe451b9ea22a6cba320911084272.txt": "c05f7ccc934d7131426df106065c9b0b15d8f3934d9af8143b945c875565a675"
+  },
+  "revision": "4b2524cd252fb749bf8e3e542b8ca421ee5ee168d73addc6ec9e69f4b9759295"
+}

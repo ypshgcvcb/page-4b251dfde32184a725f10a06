@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-233364d6ca.funingjob.cn/sitemap.xml
